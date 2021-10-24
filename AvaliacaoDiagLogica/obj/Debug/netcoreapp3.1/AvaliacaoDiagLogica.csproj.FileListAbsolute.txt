@@ -1,0 +1,14 @@
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\bin\Debug\netcoreapp3.1\AvaliacaoDiagLogica.exe
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\bin\Debug\netcoreapp3.1\AvaliacaoDiagLogica.deps.json
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\bin\Debug\netcoreapp3.1\AvaliacaoDiagLogica.runtimeconfig.json
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\bin\Debug\netcoreapp3.1\AvaliacaoDiagLogica.runtimeconfig.dev.json
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\bin\Debug\netcoreapp3.1\AvaliacaoDiagLogica.dll
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\bin\Debug\netcoreapp3.1\AvaliacaoDiagLogica.pdb
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\obj\Debug\netcoreapp3.1\AvaliacaoDiagLogica.csproj.AssemblyReference.cache
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\obj\Debug\netcoreapp3.1\AvaliacaoDiagLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\obj\Debug\netcoreapp3.1\AvaliacaoDiagLogica.AssemblyInfoInputs.cache
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\obj\Debug\netcoreapp3.1\AvaliacaoDiagLogica.AssemblyInfo.cs
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\obj\Debug\netcoreapp3.1\AvaliacaoDiagLogica.csproj.CoreCompileInputs.cache
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\obj\Debug\netcoreapp3.1\AvaliacaoDiagLogica.dll
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\obj\Debug\netcoreapp3.1\AvaliacaoDiagLogica.pdb
+C:\Users\Joseffer\source\repos\AvaliacaoDiagLogica\obj\Debug\netcoreapp3.1\AvaliacaoDiagLogica.genruntimeconfig.cache

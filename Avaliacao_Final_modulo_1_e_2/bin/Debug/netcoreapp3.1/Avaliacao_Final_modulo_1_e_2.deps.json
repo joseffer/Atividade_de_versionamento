@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Avaliacao_Final_modulo_1_e_2/1.0.0": {
+        "runtime": {
+          "Avaliacao_Final_modulo_1_e_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avaliacao_Final_modulo_1_e_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

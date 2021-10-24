@@ -1,0 +1,14 @@
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\bin\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.exe
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\bin\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.deps.json
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\bin\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.runtimeconfig.json
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\bin\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.runtimeconfig.dev.json
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\bin\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.dll
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\bin\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.pdb
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\obj\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.csproj.AssemblyReference.cache
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\obj\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\obj\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.AssemblyInfoInputs.cache
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\obj\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.AssemblyInfo.cs
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\obj\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\obj\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.dll
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\obj\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.pdb
+C:\Users\Joseffer\source\repos\AvalicaoDiagOrientadoObjeto\obj\Debug\netcoreapp3.1\AvalicaoDiagOrientadoObjeto.genruntimeconfig.cache

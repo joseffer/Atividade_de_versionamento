@@ -1,0 +1,14 @@
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\obj\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.csproj.AssemblyReference.cache
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\obj\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\obj\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.AssemblyInfoInputs.cache
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\obj\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.AssemblyInfo.cs
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\obj\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.csproj.CoreCompileInputs.cache
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\bin\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.exe
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\bin\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.deps.json
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\bin\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.runtimeconfig.json
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\bin\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.runtimeconfig.dev.json
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\bin\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.dll
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\bin\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.pdb
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\obj\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.dll
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\obj\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.pdb
+C:\Users\Joseffer\source\repos\Avaliacao_Final_modulo_1_e_2\obj\Debug\netcoreapp3.1\Avaliacao_Final_modulo_1_e_2.genruntimeconfig.cache
